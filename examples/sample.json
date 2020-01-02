@@ -1,0 +1,16 @@
+{
+  "value": 0,
+  "version": 1,
+  "events": [
+    {
+      "action": "begin",
+      "id": "edit_0",
+      "value": 1
+    },
+    {
+      "action": "resolve",
+      "id": "edit_0",
+      "success": true
+    }
+  ]
+}
